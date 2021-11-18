@@ -5,7 +5,7 @@
     "color": "Yellow",
     "quality": "Average",
     "designer": "Atik",
-    "price": "500",
+    "price": 500,
     "image": "https://i.ibb.co/k3Q3J7L/chair2.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "color": "Wood Color",
     "quality": "Average",
     "designer": "Saad",
-    "price": "300",
+    "price": 300,
     "image": "https://i.ibb.co/f4gRXSw/chair3.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "color": "Wood Color",
     "quality": "Good",
     "designer": "Ali",
-    "price": "800",
+    "price": 800,
     "image": "https://i.ibb.co/fv4qHD9/chair4.jpg"
   },
   {
@@ -33,7 +33,7 @@
     "quality": "Good",
     "designer": "Walton BD",
     "Ton": "1",
-    "price": "43000",
+    "price": 43000,
     "image": "https://i.ibb.co/R4wk7sQ/ac1.jpg"
   },
   {
@@ -43,7 +43,7 @@
     "quality": "Good",
     "designer": "Walton BD",
     "Ton": "2",
-    "price": "63000",
+    "price": 63000,
     "image": "https://i.ibb.co/VtXv63n/ac2.jpg"
   },
   {
@@ -53,7 +53,7 @@
     "quality": "Best",
     "designer": "General Japan",
     "Ton": "2",
-    "price": "43000",
+    "price": 43000,
     "image": "https://i.ibb.co/ZBmcDgS/ac3.jpg"
   },
   {
@@ -62,7 +62,7 @@
     "color": "White",
     "quality": "Best",
     "designer": "General Japan",
-    "price": "45000",
+    "price": 45000,
     "image": "https://i.ibb.co/H4w1W3r/projector1.jpg"
   },
   {
@@ -71,7 +71,7 @@
     "color": "White",
     "quality": "Best",
     "designer": "General Japan",
-    "price": "75000",
+    "price": 75000,
     "image": "https://i.ibb.co/vzGfPBb/projector2.jpg"
   },
 
@@ -81,7 +81,7 @@
     "color": "Black",
     "quality": "Good",
     "designer": "Foysel",
-    "price": "9000",
+    "price": 9000,
     "image": "https://i.ibb.co/VSPjbFd/blackbord.jpg"
   },
 
@@ -91,7 +91,7 @@
     "color": "White",
     "quality": "Good",
     "designer": "Azam",
-    "price": "5000",
+    "price": 5000,
     "image": "https://i.ibb.co/1GZQtPN/whitebord.jpg"
   },
 
@@ -101,7 +101,7 @@
     "color": "Black",
     "quality": "Best",
     "designer": "SB Group",
-    "price": "64000",
+    "price": 64000,
     "image": "https://i.ibb.co/tq2rGJ6/multimedia-bord.jpg"
   }
 ]
